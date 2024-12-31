@@ -23,15 +23,11 @@ In Windows, you will need Visual Studio as well as Visual Studio Build Tools, bu
 
 ```bash
 cd (this_directory)
-jupyter notebook
-
-open a browser to http://localhost:8888
+python -m notebook
 ```
 
-NOTE: If there is any problem locating the jupyter executable, try:
+The terminal will give you a link to access your notebook, it should look something like:
 
-```bash
-python3 -m site --user-base
-```
+http://localhost:8888/tree?token=0acb3712498379487239847239847928
 
-to find where pip install jupyter... call it from there. (might be $HOME/.local/bin)
+Use that to access your notebook.
