@@ -2,7 +2,7 @@
 
 I re-used the Puzzle framework provided by Raymond Hettinger, as well as one of his examples (the Einstein Problem). Go watch his talk, its amazing. All other code is mine.
 
-[Modern solvers: Problems well-definedd are problems solved](https://www.youtube.com/watch?v=_GP9OpZPUYc)
+[Modern solvers: Problems well-defined are problems solved](https://www.youtube.com/watch?v=_GP9OpZPUYc)
 
 
 ## Installation
